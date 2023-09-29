@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Sathsara</h1>
-<h3 align="center">A indie developer from Sri lanka</h3>
+<h3 align="center">An indie developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashthebro&label=Profile%20views&color=0e75b6&style=flat" alt="akashthebro" /> </p>
 
