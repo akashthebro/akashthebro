@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MC RCON**
 
-- 🌱 I’m currently learning **C# and Python**
+- 🌱 I’m currently learning **lua and react**
 
 - 📫 How to reach me **akashs2005pro@gmail.com**
 
